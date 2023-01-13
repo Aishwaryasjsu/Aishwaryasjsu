@@ -17,7 +17,7 @@ Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
 1.FILESTORAGE:
 
-Repo:Cloudfiles
+Repo:theCloudfiles
 
 2.ESPMARKETPLACE(username:Aishlearn)
 
