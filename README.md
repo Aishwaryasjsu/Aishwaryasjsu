@@ -7,6 +7,7 @@ Databases:Mysql,DynamoDB,mongoBD
 Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
 #PROJECTS
+
 1.FILESTORAGE:
 Repo:Cloudfiles
 
@@ -15,6 +16,10 @@ https://github.com/TechWizards-ESPMarketplace/esp-marketplace
 
 3.BOOK MOTEL BY CHATBOT
 https://github.com/CMPE281-CloudTech/project2
+
+
+- 📫 How to reach me:
+- Aishwarya.lodhi@sjsu.edu
 
 <!--
 **Aishwaryasjsu/Aishwaryasjsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
