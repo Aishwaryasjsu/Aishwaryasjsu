@@ -1,12 +1,19 @@
 ### Hi there 👋
-## Skills:
+- 📫 How to reach me:
+- Aishwarya.lodhi@sjsu.edu
+
+### Skills:
 My current learning:
+
 Language:JAVA,PYTHON,JS
+
 Technologies& frame:NodeJS,React,HTML,CSS,DJANGO.
+
 Databases:Mysql,DynamoDB,mongoBD
+
 Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
-#PROJECTS
+### PROJECTS
 
 1.FILESTORAGE:
 Repo:Cloudfiles
@@ -18,8 +25,7 @@ https://github.com/TechWizards-ESPMarketplace/esp-marketplace
 https://github.com/CMPE281-CloudTech/project2
 
 
-- 📫 How to reach me:
-- Aishwarya.lodhi@sjsu.edu
+
 
 <!--
 **Aishwaryasjsu/Aishwaryasjsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
