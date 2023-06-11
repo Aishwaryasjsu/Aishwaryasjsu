@@ -19,13 +19,13 @@ Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
 Repo:theCloudfiles
 
-2.ESPMARKETPLACE(username:Aishlearn)
+2.ESPMARKETPLACE(username:Aishlearn/Aishwaryasjsu)
 
 https://github.com/TechWizards-ESPMarketplace/esp-marketplace
 
 
 
-3.BOOK MOTEL BY CHATBOT(username:Aishlearn)
+3.BOOK MOTEL BY CHATBOT(username:Aishlearn/Aishwaryasjsu)
 
 https://github.com/CMPE281-CloudTech/project2
 
