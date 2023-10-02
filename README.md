@@ -30,7 +30,7 @@ https://github.com/TechWizards-ESPMarketplace/esp-marketplace
 https://github.com/CMPE281-CloudTech/project2
 
 4. CREDIT CARD RECONGITION(Design pattern implementation)
-   https://github.com/gopinathsjsu/individual-project-Aishwaryasjsu
+ https://github.com/gopinathsjsu/individual-project-Aishwaryasjsu
 
 
 
