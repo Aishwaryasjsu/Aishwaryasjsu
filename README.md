@@ -17,20 +17,22 @@ Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
 1.FILESTORAGE:
 
-Repo:theCloudfiles
+https://github.com/Aishwaryasjsu/thecloudfiles
 
 2.ESPMARKETPLACE(username:Aishlearn/Aishwaryasjsu)
 
 https://github.com/TechWizards-ESPMarketplace/esp-marketplace
 
-
-
 3.BOOK MOTEL BY CHATBOT(username:Aishlearn/Aishwaryasjsu)
 
 https://github.com/CMPE281-CloudTech/project2
 
-4. CREDIT CARD RECONGITION(Design pattern implementation)
- https://github.com/gopinathsjsu/individual-project-Aishwaryasjsu
+4.CREDIT CARD RECONGITION(username:Aishlearn/Aishwaryasjsu)
+
+https://github.com/gopinathsjsu/individual-project-Aishwaryasjsu
+
+
+ 
 
 
 
