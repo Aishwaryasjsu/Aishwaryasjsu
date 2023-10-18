@@ -29,7 +29,7 @@ https://github.com/CMPE281-CloudTech/project2
 
 4.CREDIT CARD RECONGITION(username:Aishlearn/Aishwaryasjsu)
 
-https://github.com/gopinathsjsu/individual-project-Aishwaryasjsu
+https://github.com/Aishwaryasjsu/Credit_card
 
 
  
