@@ -21,7 +21,7 @@ https://github.com/Aishwaryasjsu/thecloudfiles
 
 2.ESPMARKETPLACE(username:Aishlearn/Aishwaryasjsu)
 
-https://github.com/TechWizards-ESPMarketplace/esp-marketplace
+https://github.com/Aishwaryasjsu/espmarketplace
 
 3.BOOK MOTEL BY CHATBOT(username:Aishlearn/Aishwaryasjsu)
 
