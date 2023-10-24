@@ -7,9 +7,9 @@ My current learning:
 
 Language:JAVA,PYTHON,JS
 
-Technologies& frame:NodeJS,React,HTML,CSS,DJANGO.
+Technologies& framework:NodeJS,React,HTML,CSS,DJANGO.
 
-Databases:Mysql,DynamoDB,mongoBD
+Databases:Mysql,DynamoDB,mongoDB
 
 Clous:AWS EC2,S3,SNS,RDS,ROUTE53,CODEPIPLINE,CODEDEPLOY.
 
