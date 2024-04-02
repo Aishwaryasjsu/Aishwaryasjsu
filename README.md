@@ -6,9 +6,13 @@
 My current learning:
 
  Language: Python,Java, JavaScript
+ 
  Tools & Technologies: Informatica, Talend, Node.js, HTML, CSS, Tableau
+ 
  Framework: Django, NumPy, Pandas, PySpark, Sqoop, Scikit Learn, Seaborn, Matplotlib
+ 
  Cloud Tech: Azure(Synapse,DF, Datalake), AWS (S3, RDS, DynamoDB, R53, Cloudfront, EC2, CodeDeploy,Glue, Athena)
+ 
  Databases: Snowflake, MySQL, Oracle, Teradata, MongoDB, Hive,PL SQ
 
 ### PROJECTS
